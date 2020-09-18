@@ -1,0 +1,8 @@
+build
+coverage
+.editorconfig
+.prettierignore
+.gitignore
+sonar-project.properties
+yarn.lock
+yarn-error.log
